@@ -1,5 +1,5 @@
 # BeepBoopNoBlink
-Fast blink
-Smol blink
-Cute blink
+Fast blink<br>
+Smol blink<br>
+Cute blink<br>
 Fabulous blink
